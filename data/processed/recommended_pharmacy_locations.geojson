@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "recommended_pharmacy_locations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 743993.553996084956452, 381685.617714171530679 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 748058.392795112682506, 378419.322835179860704 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 747526.530780099332333, 382425.286001479311381 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 745816.02535547199659, 381559.958554076380096 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 746181.051543066510931, 379980.137548098922707 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 745479.003168581519276, 380116.840960690460633 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 747132.437115310458466, 380314.485575097962283 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 750660.566810353193432, 382373.237463279627264 ] } }
+]
+}
