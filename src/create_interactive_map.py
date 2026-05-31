@@ -33,7 +33,10 @@ INPUT_SERVICE_AREA_1000 = PROCESSED_DATA_DIR / "pharmacy_service_area_1000m_2180
 
 INPUT_UNCOVERED_AREA_500 = PROCESSED_DATA_DIR / "pharmacy_uncovered_area_500m_2180.geojson"
 INPUT_UNCOVERED_AREA_1000 = PROCESSED_DATA_DIR / "pharmacy_uncovered_area_1000m_2180.geojson"
-
+INPUT_RECOMMENDED_LOCATIONS = (
+    PROCESSED_DATA_DIR /
+    "recommended_pharmacy_locations.geojson"
+)
 
 # ---------------------------------------------------------
 # Output file
@@ -427,6 +430,42 @@ def add_pharmacy_markers(
             icon=folium.Icon(color="red", icon="plus-sign")
         ).add_to(marker_cluster)
 
+def add_recommended_locations(
+    m: folium.Map,
+    recommended_4326: gpd.GeoDataFrame
+) -> None:
+
+    print("Adding recommended locations...")
+
+    layer = folium.FeatureGroup(
+        name="Rekomendowane lokalizacje nowych aptek",
+        show=True
+    )
+
+    for _, row in recommended_4326.iterrows():
+
+        geom = row.geometry
+
+        folium.CircleMarker(
+            location=[
+                geom.y,
+                geom.x
+            ],
+            radius=8,
+            color="darkred",
+            fill=True,
+            fill_opacity=0.9,
+            popup=f"""
+            <b>Ranking:</b> {row['rank']}<br>
+            <b>Dzielnica:</b> {row['district_name']}<br>
+            <b>PNI:</b> {row['PNI']:.2f}<br>
+            <b>Score:</b> {row['score']:.3f}<br>
+            <b>Odległość od najbliższej apteki:</b>
+            {row['nearest_pharmacy_m']:.0f} m
+            """
+        ).add_to(layer)
+
+    layer.add_to(m)
 
 def add_information_panel(
     m: folium.Map,
@@ -488,7 +527,10 @@ def create_interactive_map() -> None:
 
     uncovered_area_500_2180 = load_layer(INPUT_UNCOVERED_AREA_500, "500 m uncovered area")
     uncovered_area_1000_2180 = load_layer(INPUT_UNCOVERED_AREA_1000, "1000 m uncovered area")
-
+    recommended_2180 = load_layer(
+        INPUT_RECOMMENDED_LOCATIONS,
+        "recommended locations"
+    )
     # Calculate stats before conversion to EPSG:4326
     stats = calculate_basic_stats(
         city_boundary_2180=city_boundary_2180,
@@ -508,7 +550,9 @@ def create_interactive_map() -> None:
 
     uncovered_area_500_4326 = to_web_crs(uncovered_area_500_2180)
     uncovered_area_1000_4326 = to_web_crs(uncovered_area_1000_2180)
-
+    recommended_4326 = to_web_crs(
+        recommended_2180
+    )
     # Create base map
     map_center = get_map_center(city_boundary_2180)
 
@@ -572,6 +616,10 @@ def create_interactive_map() -> None:
 
     add_pharmacy_markers(m, pharmacies_4326)
 
+    add_recommended_locations(
+        m,
+        recommended_4326
+    )
     # Plugins
     MiniMap(toggle_display=True).add_to(m)
     MeasureControl(

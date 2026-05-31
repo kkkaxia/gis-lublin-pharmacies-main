@@ -3,13 +3,10 @@
 "name": "recommended_pharmacy_locations",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
 "features": [
-{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 743993.553996084956452, 381685.617714171530679 ] } },
-{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 748058.392795112682506, 378419.322835179860704 ] } },
-{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 747526.530780099332333, 382425.286001479311381 ] } },
-{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 745816.02535547199659, 381559.958554076380096 ] } },
-{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 746181.051543066510931, 379980.137548098922707 ] } },
-{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 745479.003168581519276, 380116.840960690460633 ] } },
-{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 747132.437115310458466, 380314.485575097962283 ] } },
-{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 750660.566810353193432, 382373.237463279627264 ] } }
+{ "type": "Feature", "properties": { "nearest_pharmacy_m": 4320.024643554556, "index_right": 0, "district_name": "Hajdów - Zadębie", "PNI": 200.0, "distance_score": 0.92539948483383627, "pni_score": 1.0, "score": 0.94777963938368526, "rank": 1 }, "geometry": { "type": "Point", "coordinates": [ 756148.111006291233934, 382483.495283315889537 ] } },
+{ "type": "Feature", "properties": { "nearest_pharmacy_m": 3459.806048620369, "index_right": 0, "district_name": "Hajdów - Zadębie", "PNI": 200.0, "distance_score": 0.74113066456581356, "pni_score": 1.0, "score": 0.81879146519606949, "rank": 2 }, "geometry": { "type": "Point", "coordinates": [ 754648.111006291233934, 382483.495283315889537 ] } },
+{ "type": "Feature", "properties": { "nearest_pharmacy_m": 4668.2807958665062, "index_right": 9, "district_name": "Ponikwoda", "PNI": 20.605, "distance_score": 1.0, "pni_score": 0.103025, "score": 0.7309075, "rank": 3 }, "geometry": { "type": "Point", "coordinates": [ 754148.111006291233934, 386483.495283315889537 ] } },
+{ "type": "Feature", "properties": { "nearest_pharmacy_m": 2738.7484088364477, "index_right": 1, "district_name": "Szerokie", "PNI": 200.0, "distance_score": 0.58667173818281271, "pni_score": 1.0, "score": 0.71067021672796882, "rank": 4 }, "geometry": { "type": "Point", "coordinates": [ 742124.143813495407812, 382485.57854082994163 ] } },
+{ "type": "Feature", "properties": { "nearest_pharmacy_m": 3730.4830627345686, "index_right": 3, "district_name": "Abramowice", "PNI": 93.49, "distance_score": 0.79911282672578232, "pni_score": 0.46745, "score": 0.69961397870804753, "rank": 5 }, "geometry": { "type": "Point", "coordinates": [ 748148.111006291233934, 370983.495283315889537 ] } }
 ]
 }
