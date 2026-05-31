@@ -1,0 +1,137 @@
+element,id,name,amenity,dispensing,healthcare,opening_hours,phone,website,addr:street,addr:housenumber,addr:city
+node,481917750,Vikamed - Apteka,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 09:00-14:00,+48 81 469 15 26,,,,
+node,774626973,Apteka Vital Centrum,pharmacy,yes,pharmacy,,,,,,
+node,952466335,Apteka Dr Max,pharmacy,yes,pharmacy,Mo-Fr 07:00-20:00; Sa 07:00-18:00,,,,,
+node,961692406,Apteka Hipoteczna,pharmacy,yes,pharmacy,,,,,,
+node,1198707654,Gemini,pharmacy,yes,pharmacy,Mo-Fr 07:00-20:00; Sa 08:00-16:00,,,,,
+node,1337897967,Apteka,pharmacy,yes,,,,,,,
+node,1468368932,Apteka Poręba,pharmacy,yes,pharmacy,,,,,,
+node,1572662906,Dbam o Zdrowie,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-15:00,,,Lubartowska,25,Lublin
+node,1633854691,Apteka Pod Słońcem,pharmacy,yes,pharmacy,,,,,,
+node,1820455539,Dbam o Zdrowie,pharmacy,yes,pharmacy,,,,,,
+node,1838212532,Dbam o Zdrowie,pharmacy,yes,pharmacy,Mo-Sa 08:00-20:00,+48 815261754,https://www.doz.pl,Jutrzenki,4,Lublin
+node,1843648307,,pharmacy,yes,pharmacy,Mo-Fr 07:00-21:00; Sa 08:00-15:00; Su off,+48 81 584 76 29,,,,
+node,2265887046,Zdrowit,pharmacy,yes,pharmacy,,,,,,
+node,2394862504,Apteka Eskulap,pharmacy,yes,pharmacy,24/7,+48817473622,,,,
+node,2399236763,Dbam o Zdrowie,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-15:00; Su off,,,,,
+node,2399236764,Vital Centrum,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-14:00; Su off,,,Spadochroniarzy,7,Lublin
+node,2430256215,Apteka Izabela Serwan,pharmacy,yes,pharmacy,Mo-Fr 07:00-20:00; Sa 07:00-15:00,,,,,
+node,2450604508,,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-15:00,,,Wacława i Zofii Nałkowskich,108,Lublin
+node,2463401601,Apteka Świt,pharmacy,yes,,,,,,,
+node,2664006608,Apteka,pharmacy,yes,,Mo-Fr 08:00-19:00; Sa 08:00-14:00,,,,,
+node,2664044981,Apteka Centrum,pharmacy,yes,pharmacy,Mo-Fr 07:00-20:00; Sa 08:00-16:00,,,,,
+node,2839593687,Apteka Rodzinna,pharmacy,yes,pharmacy,,,,Sasankowa,8,
+node,2839604548,SALIX,pharmacy,yes,pharmacy,Mo-Fr 08:00-21:00; Sa 08:00-16:00; Su 09:00-15:00,+48 81 442 62 22,,,,
+node,2866498818,Apteka Na Błoniach,pharmacy,yes,,Mo-Fr 08:00-20:00; Sa 09:00-15:00; Su 9:00-14:00,,,Kawaleryjska,20A,Lublin
+node,2874091806,Mediki,pharmacy,yes,pharmacy,,,,,,
+node,2909992098,,pharmacy,yes,pharmacy,,,,Marii Koryznowej,2g,Lublin
+node,3056471724,,pharmacy,,pharmacy,,,,,,
+node,3056471731,Dbam o Zdrowie,pharmacy,yes,pharmacy,24/7,,,,,
+node,3170793172,Super-Pharm,pharmacy,yes,pharmacy,Mo-Sa 09:00-21:00; Su 09:00-20:00,,https://www.superpharm.pl/,,,
+node,3276481254,Apteka Lubelska,pharmacy,yes,pharmacy,,,,,,
+node,3292795907,Apteka Prima,pharmacy,yes,pharmacy,Mo-Fr 08:00-21:00; Sa 08:00-19:00; Su 10:00-17:00,,,,,
+node,3401464836,Sulap,pharmacy,yes,,Mo-Fr 08:00-20:00;Sa 08:00-15:00,,,,,
+node,3538912198,Apteka Nova,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:30; Sa 08:00-19:00; Su 09:00-17:00,,,,,
+node,3627100981,Apteka Natura,pharmacy,yes,,Mo-Fr 08:00-20:00; Sa 08:00-15:00,,,,,
+node,3640298808,Same Dobe Apteki - Apteka Eskulap,pharmacy,yes,pharmacy,24/7,+48814653738,http://www.obywatelska4.pl/,,,
+node,3640480783,Dbam o Zdrowie,pharmacy,yes,pharmacy,Mo-Sa 08:00-21:00,,,,,
+node,3646321696,Apteka Magnolia,pharmacy,yes,pharmacy,"Mo-Fr 08:00-20:00, Sa 08:00-15:00",,,,,
+node,3720993766,Apteka Na Deptaku,pharmacy,yes,pharmacy,24/7,,,,,
+node,3808029725,Apteka Barbara Wybraniec,pharmacy,yes,pharmacy,Mo-Fr 08:00-19:00; Sa 8:00-14:00,,,,,
+node,3815553568,VITA,pharmacy,yes,pharmacy,,,,,,
+node,3832532433,Mediki,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 09:00-14:00,,,,,
+node,3832532434,Prima,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-14:00,,,Onyksowa,12,Lublin
+node,3846731975,Apteka Lubelska,pharmacy,yes,,Mo-Fr 08:00-20:00; Sa 08:00-18:00,,,,,
+node,4053728297,"Apteka ""na Dożynkowej""",pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-15:00,+48817403995,,,,
+node,4053728299,Apteka Bajeczna,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-15:00; Su off,,,,,
+node,4053728300,Apteka Koralowa,pharmacy,yes,pharmacy,Mo-Fr 08:00-19:00; Sa 08:00-15:00,,,,,
+node,4053728301,Gemini,pharmacy,yes,pharmacy,,,,Wojciecha Żywnego,8,Lublin
+node,4053728302,Apteka Markut,pharmacy,yes,pharmacy,,,,,,
+node,4053728303,Apteka Mikstura,pharmacy,yes,pharmacy,,,,,,
+node,4053728305,Apteka Lubelska,pharmacy,yes,,,,,,,
+node,4053728306,Apteka Rodzinna,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-16:00; Su 09:00-14:00,,,Ułanów,10,Lublin
+node,4053728307,Apteka,pharmacy,yes,,,,,,,
+node,4053728308,Apteka Zdrowotna,pharmacy,yes,pharmacy,,,,,,
+node,4053728309,Apteka Salutis,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-15:00,,,,,
+node,4053728310,Apteka Salutis,pharmacy,yes,,,,,,,
+node,4053728313,Apteka Łabędzia,pharmacy,yes,,,,,,,
+node,4053728314,Apteka,pharmacy,yes,,,,,,,
+node,4053728315,,pharmacy,yes,,,,,,,
+node,4053728316,Apteka,pharmacy,yes,,,,,,,
+node,4053728323,Apteka Dzieciątka Jezus,pharmacy,yes,pharmacy,,,,,,
+node,4053728325,Apteka,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-14:00,,,Kolorowa,24/44,Lublin
+node,4053728327,Dbam o Zdrowie,pharmacy,yes,pharmacy,,,,,,
+node,4053728328,Apteka Eurofarm Agnieszka Rahnama,pharmacy,yes,pharmacy,Mo-Fr 09:00-18:00; Sa 09:00-13:00,,,,,
+node,4053728330,Apteka Rogatka Warszawska,pharmacy,yes,,Mo-Fr 08:00-20:00; Sa 08:00-15:00; Su off,,,,,
+node,4056200926,Farmvita,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-13:00,,,,,
+node,4056200927,Apteka Milenium,pharmacy,yes,pharmacy,Mo-Fr 07:00-20:00; Sa 08:00-14:00,,,Lubartowska,64,Lublin
+node,4056200929,Apteka Prima,pharmacy,yes,pharmacy,,,,,,
+node,4057332696,Apteka Rodzinna,pharmacy,yes,,Mo-Fr 07:30-20:30; Sa 08:00-16:00; Su 09:00-15:00,,https://aptekacentrum.lublin.pl/,,,
+node,4057332698,Apteka Melisa,pharmacy,yes,,Mo-Fr 08:00-20:00; Sa 08:00-14:00,+48 815259594,,,,
+node,4057332699,Apteka Promienna,pharmacy,yes,pharmacy,,,,,,
+node,4060048713,Apteka Sda,pharmacy,yes,pharmacy,Mo-Fr 07:00-21:00; Sa 08:00-20:00; Su 09:00-17:00,,,,,
+node,4060048714,Apteka Eurofarm,pharmacy,yes,pharmacy,Mo-Sa 09:00-21:00; Fr 09:00-21:30; Su 09:00-20:00,,,,,
+node,4060048717,Apteka Studencka,pharmacy,yes,pharmacy,Mo-Fr 08:00-18:00; Sa 09:00-14:00; Su off,+48 81 533 01 29,,Mariana Langiewicza,16,
+node,4060048718,Apteka Tilia,pharmacy,yes,,,,,Kościelna,7a,Lublin
+node,4060048720,Apteka na Zana,pharmacy,yes,pharmacy,24/7,+48 815280298,,Tomasza Zana,27/1,Lublin
+node,4060048721,Apteka Na Krańcowej,pharmacy,yes,,,,,,,
+node,4060048722,Niezapominajka,pharmacy,yes,pharmacy,,,,,,
+node,4060048724,Apteka,pharmacy,yes,pharmacy,Mo-Fr 07:00-20:00; Sa 07:00-15:00,,,,,
+node,4060048725,Vital Centrum,pharmacy,yes,,,,,,,
+node,4060048727,Apteka Mgr Farm. Barbara Stanicka,pharmacy,yes,pharmacy,,,,,,
+node,4060048728,,pharmacy,yes,pharmacy,,,,,,
+node,4060048729,Dbam o Zdrowie,pharmacy,yes,pharmacy,Mo-Fr 08:00-19:00; Sa 08:00-14:00,,,,,
+node,4060048730,Apteka Alicja Doraczyńska-Szopa Józefa Petkowicz,pharmacy,yes,pharmacy,,,,,,
+node,4060048731,Niezapominajka Dla Całej Rodziny,pharmacy,yes,pharmacy,,,,Lwowska,12,Lublin
+node,4060048734,Apteka,pharmacy,yes,,,+48 81 527 64 43,"http://www.apteka100.pl/?tarasowa-1,7",,,
+node,4060048737,Apteka Na Bazylianówce,pharmacy,yes,pharmacy,Mo-Sa 08:00-21:00; Su 09:00-20:00,,,Bazylianówka,58,Lublin
+node,4060048740,Vital Centrum,pharmacy,yes,pharmacy,,,,,,
+node,4060048741,Dr Zdrowie,pharmacy,yes,pharmacy,,,,Obrońców Pokoju,1a,Lublin
+node,4060048742,Dr. Max,pharmacy,yes,pharmacy,,,,,,
+node,4068153936,Apteka,pharmacy,yes,pharmacy,,,,,,
+node,4079193544,Nova,pharmacy,yes,pharmacy,"Mo-Fr 08:00-20:00, Sa 08:00-14:00",,,,,
+node,4117132192,Apteka Zemborzycka,pharmacy,yes,pharmacy,,,,,,
+node,4117148007,Dbam o Zdrowie,pharmacy,yes,pharmacy,,,,,,
+node,4117159459,Gemini,pharmacy,yes,pharmacy,24/7,,,Filaretów,44a,Lublin
+node,4117194301,Apteka Premium - Lek,pharmacy,yes,pharmacy,"Mo-Sa 06:00-22:00; PH,Su 09:00-22:00",,,,,
+node,4117227788,Dbam o Zdrowie,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-16:00,,,Kalinowszczyzna,46a,Lublin
+node,4117256989,Apteka Przyjazna,pharmacy,yes,pharmacy,,,,,,
+node,4117296197,Ziko Apteka,pharmacy,yes,pharmacy,"Mo-Fr 08:00-20:00, Sa 08:00-16:00",+48 12 687 57 47,https://www.ziko.pl/lublin-apteki-drogerie-ziko/krakowskie-przedmiescie-70/,Krakowskie Przedmieście,70,Lublin
+node,4139288023,Apteka Hipoteczna,pharmacy,yes,pharmacy,,,,,,
+node,4139298099,Apteka Salutis,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-15:00,,,,,
+node,4139315316,Apteka,pharmacy,yes,,,,,,,
+node,4234179933,Dbam o Zdrowie,pharmacy,yes,pharmacy,,,,,,
+node,4345553368,Apteka Hipoteczna Tanie Leki,pharmacy,yes,pharmacy,,,,Hipoteczna,4,Lublin
+node,4523228989,Jedyna Taka,pharmacy,yes,pharmacy,Mo-Fr 07:30-20:00; Sa 08:00-15:00; Su off,,,,,
+node,4773432462,Prima,pharmacy,yes,pharmacy,,,,,,
+node,4784229014,Vital Centrum,pharmacy,yes,pharmacy,,,,,,
+node,4843761785,Dr Zdrowie,pharmacy,yes,pharmacy,,+48814415350,https://www.drzdrowie.pl/,,,
+node,4908707568,Apteka,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-15:00,,,,,
+node,5145726163,Apteka Niezapominajka,pharmacy,yes,,Mo-Fr 08:00-20:00; Sa 08:00-16:00,,http://www.apteka-niezapominajka.pl/apteka/Lublin-Sawy,,,
+node,5522660461,,pharmacy,yes,pharmacy,Mo-Fr 08:00-19:00; Sa 08:00-15:00,,,,,
+node,5588145161,Eskulap II,pharmacy,yes,pharmacy,Mo-Fr 07:00-21:00; Sa 08:00-20:00; Su 08:00-17:00,,,,,
+node,5650450466,Apteka św Łukasza,pharmacy,yes,pharmacy,Mo-Fr 07:00-21:00; Sa 08:00-15:00,,,,,
+node,5724281417,Dbam o Zdrowie,pharmacy,yes,pharmacy,Mo-Su 08:00-20:00,,,Bramowa,2-8,Lublin
+node,5814346257,Nasza Apteka,pharmacy,yes,pharmacy,,,,,,
+node,6030433590,Gemini,pharmacy,yes,pharmacy,Mo-Fr 07:00-20:00; Sa 08:00-15:00,,,Unicka,4,Lublin
+node,6051281042,Apteka,pharmacy,yes,pharmacy,,,,,,
+node,6385800304,Ziko Apteka,pharmacy,yes,pharmacy,"Mo-Fr 07:00-20:00, Sa 08:00-16:00",+48 12 687 57 47,https://www.ziko.pl/lublin-apteki-drogerie-ziko/nadstawna-2/,,,
+node,7195072328,Akademicka,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-14:00,,,,,
+node,8851461374,Całotygodniowa Apteka Familijna,pharmacy,yes,pharmacy,"Mo-Fr 08:00-20:00, Sat 08:00-15:00",,,,,
+node,9507036892,Apteka Leki,pharmacy,yes,pharmacy,Mo-Fr 07:00-21:00; Sa 08:00-15:00; Su off,,,,,
+node,9563809650,Apteka Andria,pharmacy,yes,,,,,,,
+node,9563809654,Apteka Na Kunickiego,pharmacy,yes,,,,,,,
+node,9563809657,Niezapominajka,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-16:00,,,Żelazowej Woli,1a,Lublin
+node,9563809662,Apteka W Zone,pharmacy,yes,,Mo-Sa 09:00-21:00; Su 09:00-18:00,,,,,
+node,9563809674,Apteka Lubelska,pharmacy,yes,,,,,,,
+node,9563809678,,pharmacy,yes,pharmacy,,,,,,
+node,9563809693,"Barbara Borsukiewicz, Małgorzata Borsukiewicz, Jerzy Borsukiewicz Spółka Jawna",pharmacy,yes,pharmacy,,,,Topolowa,7,Lublin
+node,9563809708,,pharmacy,yes,pharmacy,,,,,,
+node,9563809712,,pharmacy,yes,pharmacy,,,,,,
+node,9563809713,Apteka Vita,pharmacy,yes,pharmacy,,,,,,
+node,9563809714,Apteka Panaceum,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-14:00,,,,,
+node,9563819629,Dbam o Zdrowie,pharmacy,yes,pharmacy,,,,,,
+node,9566101980,Neuro Apteka,pharmacy,yes,,,,,,,
+node,10592086305,,pharmacy,yes,pharmacy,,,,,,
+way,480021930,Super-Pharm,pharmacy,yes,pharmacy,Mo-Sa 09:00-21:00; Su 09:00-20:00,,,Aleja Unii Lubelskiej,2,Lublin
+way,1032385139,Dr Zdrowie,pharmacy,yes,pharmacy,"Mo-Sa 09:00-21:00; Jan 25,Mar 29,Apr 26,Jun 28,Aug 30,Dec 06,Dec 13,Dec 20 Su 09:00-20:00",+48 81 452 11 30,,,,

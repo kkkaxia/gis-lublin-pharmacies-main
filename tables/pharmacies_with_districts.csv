@@ -1,0 +1,137 @@
+element,id,name,amenity,dispensing,healthcare,opening_hours,phone,website,addr:street,addr:housenumber,addr:city,original_geometry_type,pharmacy_id,longitude,latitude,district_id,district_name
+node,481917750,Vikamed - Apteka,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 09:00-14:00,+48 81 469 15 26,,,,,Point,1,22.5866019,51.2084693,9,Dziesiąta
+node,774626973,Apteka Vital Centrum,pharmacy,yes,pharmacy,,,,,,,Point,2,22.5317117,51.2279466,26,Czuby Płn.
+node,952466335,Apteka Dr Max,pharmacy,yes,pharmacy,Mo-Fr 07:00-20:00; Sa 07:00-18:00,,,,,,Point,3,22.5702659,51.2518214,14,Śródmieście
+node,961692406,Apteka Hipoteczna,pharmacy,yes,pharmacy,,,,,,,Point,4,22.6042148,51.2359646,5,Bronowice
+node,1198707654,Gemini,pharmacy,yes,pharmacy,Mo-Fr 07:00-20:00; Sa 08:00-16:00,,,,,,Point,5,22.5695576,51.2512992,6,Stare Miasto
+node,1337897967,Apteka,pharmacy,yes,,,,,,,,Point,6,22.629392,51.2204285,13,Felin
+node,1468368932,Apteka Poręba,pharmacy,yes,pharmacy,,,,,,,Point,7,22.5049999,51.2245512,7,Czuby Pd.
+node,1572662906,Dbam o Zdrowie,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-15:00,,,Lubartowska,25,Lublin,Point,8,22.567035,51.2498813,6,Stare Miasto
+node,1633854691,Apteka Pod Słońcem,pharmacy,yes,pharmacy,,,,,,,Point,9,22.5435543,51.20055,10,Wrotków
+node,1820455539,Dbam o Zdrowie,pharmacy,yes,pharmacy,,,,,,,Point,10,22.5960017,51.2478516,15,Tatary
+node,1838212532,Dbam o Zdrowie,pharmacy,yes,pharmacy,Mo-Sa 08:00-20:00,+48 815261754,https://www.doz.pl,Jutrzenki,4,Lublin,Point,11,22.5233,51.228982,26,Czuby Płn.
+node,1843648307,Unknown pharmacy,pharmacy,yes,pharmacy,Mo-Fr 07:00-21:00; Sa 08:00-15:00; Su off,+48 81 584 76 29,,,,,Point,12,22.5486948,51.2373706,16,Rury
+node,2265887046,Zdrowit,pharmacy,yes,pharmacy,,,,,,,Point,13,22.5454792,51.2634156,8,Czechów Pd.
+node,2394862504,Apteka Eskulap,pharmacy,yes,pharmacy,24/7,+48817473622,,,,,Point,14,22.5698762,51.2590299,14,Śródmieście
+node,2399236763,Dbam o Zdrowie,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-15:00; Su off,,,,,,Point,15,22.5311448,51.250872,1,Wieniawa
+node,2399236764,Vital Centrum,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-14:00; Su off,,,Spadochroniarzy,7,Lublin,Point,16,22.5306218,51.2488291,1,Wieniawa
+node,2430256215,Apteka Izabela Serwan,pharmacy,yes,pharmacy,Mo-Fr 07:00-20:00; Sa 07:00-15:00,,,,,,Point,17,22.5526343,51.2396702,14,Śródmieście
+node,2450604508,Unknown pharmacy,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-15:00,,,Wacława i Zofii Nałkowskich,108,Lublin,Point,18,22.5443743,51.210455,10,Wrotków
+node,2463401601,Apteka Świt,pharmacy,yes,,,,,,,,Point,19,22.4919054,51.2306491,4,Węglin Pd.
+node,2664006608,Apteka,pharmacy,yes,,Mo-Fr 08:00-19:00; Sa 08:00-14:00,,,,,,Point,20,22.5267855,51.243513,16,Rury
+node,2664044981,Apteka Centrum,pharmacy,yes,pharmacy,Mo-Fr 07:00-20:00; Sa 08:00-16:00,,,,,,Point,21,22.5578865,51.2495807,14,Śródmieście
+node,2839593687,Apteka Rodzinna,pharmacy,yes,pharmacy,,,,Sasankowa,8,,Point,22,22.5196129,51.2304195,26,Czuby Płn.
+node,2839604548,SALIX,pharmacy,yes,pharmacy,Mo-Fr 08:00-21:00; Sa 08:00-16:00; Su 09:00-15:00,+48 81 442 62 22,,,,,Point,23,22.5206506,51.229409,26,Czuby Płn.
+node,2866498818,Apteka Na Błoniach,pharmacy,yes,,Mo-Fr 08:00-20:00; Sa 09:00-15:00; Su 9:00-14:00,,,Kawaleryjska,20A,Lublin,Point,24,22.5103482,51.2347951,26,Czuby Płn.
+node,2874091806,Mediki,pharmacy,yes,pharmacy,,,,,,,Point,25,22.5050113,51.2701463,23,Sławin
+node,2909992098,Unknown pharmacy,pharmacy,yes,pharmacy,,,,Marii Koryznowej,2g,Lublin,Point,26,22.5848664,51.2592014,3,Kalinowszczyzna
+node,3056471724,Unknown pharmacy,pharmacy,,pharmacy,,,,,,,Point,27,22.565941,51.2606464,14,Śródmieście
+node,3056471731,Dbam o Zdrowie,pharmacy,yes,pharmacy,24/7,,,,,,Point,28,22.565576,51.2608501,14,Śródmieście
+node,3170793172,Super-Pharm,pharmacy,yes,pharmacy,Mo-Sa 09:00-21:00; Su 09:00-20:00,,https://www.superpharm.pl/,,,,Point,29,22.612652,51.2319891,13,Felin
+node,3276481254,Apteka Lubelska,pharmacy,yes,pharmacy,,,,,,,Point,30,22.5372064,51.2321086,16,Rury
+node,3292795907,Apteka Prima,pharmacy,yes,pharmacy,Mo-Fr 08:00-21:00; Sa 08:00-19:00; Su 10:00-17:00,,,,,,Point,31,22.5411226,51.2680273,22,Czechów Płn.
+node,3401464836,Sulap,pharmacy,yes,,Mo-Fr 08:00-20:00;Sa 08:00-15:00,,,,,,Point,32,22.5903647,51.2322557,5,Bronowice
+node,3538912198,Apteka Nova,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:30; Sa 08:00-19:00; Su 09:00-17:00,,,,,,Point,33,22.5842307,51.1947414,21,Abramowice
+node,3627100981,Apteka Natura,pharmacy,yes,,Mo-Fr 08:00-20:00; Sa 08:00-15:00,,,,,,Point,34,22.5073848,51.2312549,26,Czuby Płn.
+node,3640298808,Same Dobe Apteki - Apteka Eskulap,pharmacy,yes,pharmacy,24/7,+48814653738,http://www.obywatelska4.pl/,,,,Point,35,22.5714079,51.2586176,14,Śródmieście
+node,3640480783,Dbam o Zdrowie,pharmacy,yes,pharmacy,Mo-Sa 08:00-21:00,,,,,,Point,36,22.5149942,51.2290151,26,Czuby Płn.
+node,3646321696,Apteka Magnolia,pharmacy,yes,pharmacy,"Mo-Fr 08:00-20:00, Sa 08:00-15:00",,,,,,Point,37,22.5742527,51.2523655,14,Śródmieście
+node,3720993766,Apteka Na Deptaku,pharmacy,yes,pharmacy,24/7,,,,,,Point,38,22.5628032,51.2479098,14,Śródmieście
+node,3808029725,Apteka Barbara Wybraniec,pharmacy,yes,pharmacy,Mo-Fr 08:00-19:00; Sa 8:00-14:00,,,,,,Point,39,22.5393157,51.2525203,1,Wieniawa
+node,3815553568,VITA,pharmacy,yes,pharmacy,,,,,,,Point,40,22.5450271,51.2600846,8,Czechów Pd.
+node,3832532433,Mediki,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 09:00-14:00,,,,,,Point,41,22.5645738,51.2504588,14,Śródmieście
+node,3832532434,Prima,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-14:00,,,Onyksowa,12,Lublin,Point,42,22.5007219,51.2211117,4,Węglin Pd.
+node,3846731975,Apteka Lubelska,pharmacy,yes,,Mo-Fr 08:00-20:00; Sa 08:00-18:00,,,,,,Point,43,22.5803359,51.2165686,9,Dziesiąta
+node,4053728297,"Apteka ""na Dożynkowej""",pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-15:00,+48817403995,,,,,Point,44,22.5742577,51.2751915,25,Ponikwoda
+node,4053728299,Apteka Bajeczna,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-15:00; Su off,,,,,,Point,45,22.5952602,51.260983,3,Kalinowszczyzna
+node,4053728300,Apteka Koralowa,pharmacy,yes,pharmacy,Mo-Fr 08:00-19:00; Sa 08:00-15:00,,,,,,Point,46,22.4849967,51.2248275,4,Węglin Pd.
+node,4053728301,Gemini,pharmacy,yes,pharmacy,,,,Wojciecha Żywnego,8,Lublin,Point,47,22.5489557,51.2690493,22,Czechów Płn.
+node,4053728302,Apteka Markut,pharmacy,yes,pharmacy,,,,,,,Point,48,22.5979753,51.2486829,15,Tatary
+node,4053728303,Apteka Mikstura,pharmacy,yes,pharmacy,,,,,,,Point,49,22.5539763,51.261846,8,Czechów Pd.
+node,4053728305,Apteka Lubelska,pharmacy,yes,,,,,,,,Point,50,22.5301923,51.2231557,7,Czuby Pd.
+node,4053728306,Apteka Rodzinna,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-16:00; Su 09:00-14:00,,,Ułanów,10,Lublin,Point,51,22.5050771,51.2362749,26,Czuby Płn.
+node,4053728307,Apteka,pharmacy,yes,,,,,,,,Point,52,22.5972383,51.1918209,11,Głusk
+node,4053728308,Apteka Zdrowotna,pharmacy,yes,pharmacy,,,,,,,Point,53,22.5444595,51.2028076,10,Wrotków
+node,4053728309,Apteka Salutis,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-15:00,,,,,,Point,54,22.5441045,51.2082683,10,Wrotków
+node,4053728310,Apteka Salutis,pharmacy,yes,,,,,,,,Point,55,22.5198542,51.2229923,7,Czuby Pd.
+node,4053728313,Apteka Łabędzia,pharmacy,yes,,,,,,,,Point,56,22.5924338,51.2321935,5,Bronowice
+node,4053728314,Apteka,pharmacy,yes,,,,,,,,Point,57,22.5692951,51.2327433,19,Za Cukrownią
+node,4053728315,Unknown pharmacy,pharmacy,yes,,,,,,,,Point,58,22.5962424,51.2334765,5,Bronowice
+node,4053728316,Apteka,pharmacy,yes,,,,,,,,Point,59,22.5699418,51.2341698,19,Za Cukrownią
+node,4053728323,Apteka Dzieciątka Jezus,pharmacy,yes,pharmacy,,,,,,,Point,60,22.5629786,51.2498628,14,Śródmieście
+node,4053728325,Apteka,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-14:00,,,Kolorowa,24/44,Lublin,Point,61,22.5191618,51.2518864,2,Sławinek
+node,4053728327,Dbam o Zdrowie,pharmacy,yes,pharmacy,,,,,,,Point,62,22.5210261,51.2657225,23,Sławin
+node,4053728328,Apteka Eurofarm Agnieszka Rahnama,pharmacy,yes,pharmacy,Mo-Fr 09:00-18:00; Sa 09:00-13:00,,,,,,Point,63,22.5472176,51.2742329,22,Czechów Płn.
+node,4053728330,Apteka Rogatka Warszawska,pharmacy,yes,,Mo-Fr 08:00-20:00; Sa 08:00-15:00; Su off,,,,,,Point,64,22.5283868,51.2514068,1,Wieniawa
+node,4056200926,Farmvita,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-13:00,,,,,,Point,65,22.5620297,51.2498948,14,Śródmieście
+node,4056200927,Apteka Milenium,pharmacy,yes,pharmacy,Mo-Fr 07:00-20:00; Sa 08:00-14:00,,,Lubartowska,64,Lublin,Point,66,22.5709537,51.2570703,14,Śródmieście
+node,4056200929,Apteka Prima,pharmacy,yes,pharmacy,,,,,,,Point,67,22.5894636,51.2568244,3,Kalinowszczyzna
+node,4057332696,Apteka Rodzinna,pharmacy,yes,,Mo-Fr 07:30-20:30; Sa 08:00-16:00; Su 09:00-15:00,,https://aptekacentrum.lublin.pl/,,,,Point,68,22.4990046,51.2215612,4,Węglin Pd.
+node,4057332698,Apteka Melisa,pharmacy,yes,,Mo-Fr 08:00-20:00; Sa 08:00-14:00,+48 815259594,,,,,Point,69,22.5002033,51.2404601,12,Konstantynów
+node,4057332699,Apteka Promienna,pharmacy,yes,pharmacy,,,,,,,Point,70,22.5122444,51.2396211,16,Rury
+node,4060048713,Apteka Sda,pharmacy,yes,pharmacy,Mo-Fr 07:00-21:00; Sa 08:00-20:00; Su 09:00-17:00,,,,,,Point,71,22.5282729,51.2400744,16,Rury
+node,4060048714,Apteka Eurofarm,pharmacy,yes,pharmacy,Mo-Sa 09:00-21:00; Fr 09:00-21:30; Su 09:00-20:00,,,,,,Point,72,22.6004842,51.2511212,15,Tatary
+node,4060048717,Apteka Studencka,pharmacy,yes,pharmacy,Mo-Fr 08:00-18:00; Sa 09:00-14:00; Su off,+48 81 533 01 29,,Mariana Langiewicza,16,,Point,73,22.534394,51.2463686,1,Wieniawa
+node,4060048718,Apteka Tilia,pharmacy,yes,,,,,Kościelna,7a,Lublin,Point,74,22.5734903,51.2369771,17,Kośminek
+node,4060048720,Apteka na Zana,pharmacy,yes,pharmacy,24/7,+48 815280298,,Tomasza Zana,27/1,Lublin,Point,75,22.5215206,51.24008,16,Rury
+node,4060048721,Apteka Na Krańcowej,pharmacy,yes,,,,,,,,Point,76,22.5906428,51.230497,17,Kośminek
+node,4060048722,Niezapominajka,pharmacy,yes,pharmacy,,,,,,,Point,77,22.5908477,51.2319377,5,Bronowice
+node,4060048724,Apteka,pharmacy,yes,pharmacy,Mo-Fr 07:00-20:00; Sa 07:00-15:00,,,,,,Point,78,22.537748,51.2404339,16,Rury
+node,4060048725,Vital Centrum,pharmacy,yes,,,,,,,,Point,79,22.517633,51.2412806,16,Rury
+node,4060048727,Apteka Mgr Farm. Barbara Stanicka,pharmacy,yes,pharmacy,,,,,,,Point,80,22.5557479,51.2445528,14,Śródmieście
+node,4060048728,Unknown pharmacy,pharmacy,yes,pharmacy,,,,,,,Point,81,22.55745,51.2472415,14,Śródmieście
+node,4060048729,Dbam o Zdrowie,pharmacy,yes,pharmacy,Mo-Fr 08:00-19:00; Sa 08:00-14:00,,,,,,Point,82,22.5168416,51.2496487,2,Sławinek
+node,4060048730,Apteka Alicja Doraczyńska-Szopa Józefa Petkowicz,pharmacy,yes,pharmacy,,,,,,,Point,83,22.5825486,51.2556953,3,Kalinowszczyzna
+node,4060048731,Niezapominajka Dla Całej Rodziny,pharmacy,yes,pharmacy,,,,Lwowska,12,Lublin,Point,84,22.5801495,51.255805,3,Kalinowszczyzna
+node,4060048734,Apteka,pharmacy,yes,,,+48 81 527 64 43,"http://www.apteka100.pl/?tarasowa-1,7",,,,Point,85,22.5209844,51.2653059,23,Sławin
+node,4060048737,Apteka Na Bazylianówce,pharmacy,yes,pharmacy,Mo-Sa 08:00-21:00; Su 09:00-20:00,,,Bazylianówka,58,Lublin,Point,86,22.5772537,51.2692897,25,Ponikwoda
+node,4060048740,Vital Centrum,pharmacy,yes,pharmacy,,,,,,,Point,87,22.5213908,51.2387469,16,Rury
+node,4060048741,Dr Zdrowie,pharmacy,yes,pharmacy,,,,Obrońców Pokoju,1a,Lublin,Point,88,22.5498514,51.2448358,14,Śródmieście
+node,4060048742,Dr. Max,pharmacy,yes,pharmacy,,,,,,,Point,89,22.518949,51.2408578,16,Rury
+node,4068153936,Apteka,pharmacy,yes,pharmacy,,,,,,,Point,90,22.492856,51.2358488,4,Węglin Pd.
+node,4079193544,Nova,pharmacy,yes,pharmacy,"Mo-Fr 08:00-20:00, Sa 08:00-14:00",,,,,,Point,91,22.5817589,51.2703702,25,Ponikwoda
+node,4117132192,Apteka Zemborzycka,pharmacy,yes,pharmacy,,,,,,,Point,92,22.5103881,51.1744663,27,Zemborzyce
+node,4117148007,Dbam o Zdrowie,pharmacy,yes,pharmacy,,,,,,,Point,93,22.5421369,51.1990775,10,Wrotków
+node,4117159459,Gemini,pharmacy,yes,pharmacy,24/7,,,Filaretów,44a,Lublin,Point,94,22.5311183,51.2378114,16,Rury
+node,4117194301,Apteka Premium - Lek,pharmacy,yes,pharmacy,"Mo-Sa 06:00-22:00; PH,Su 09:00-22:00",,,,,,Point,95,22.5574861,51.2452846,14,Śródmieście
+node,4117227788,Dbam o Zdrowie,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-16:00,,,Kalinowszczyzna,46a,Lublin,Point,96,22.5854129,51.2521798,3,Kalinowszczyzna
+node,4117256989,Apteka Przyjazna,pharmacy,yes,pharmacy,,,,,,,Point,97,22.5905663,51.2433497,15,Tatary
+node,4117296197,Ziko Apteka,pharmacy,yes,pharmacy,"Mo-Fr 08:00-20:00, Sa 08:00-16:00",+48 12 687 57 47,https://www.ziko.pl/lublin-apteki-drogerie-ziko/krakowskie-przedmiescie-70/,Krakowskie Przedmieście,70,Lublin,Point,98,22.5544352,51.2475495,14,Śródmieście
+node,4139288023,Apteka Hipoteczna,pharmacy,yes,pharmacy,,,,,,,Point,99,22.5538943,51.2503386,14,Śródmieście
+node,4139298099,Apteka Salutis,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-15:00,,,,,,Point,100,22.5351336,51.2533402,1,Wieniawa
+node,4139315316,Apteka,pharmacy,yes,,,,,,,,Point,101,22.5851645,51.2284358,17,Kośminek
+node,4234179933,Dbam o Zdrowie,pharmacy,yes,pharmacy,,,,,,,Point,102,22.5043555,51.2398746,12,Konstantynów
+node,4345553368,Apteka Hipoteczna Tanie Leki,pharmacy,yes,pharmacy,,,,Hipoteczna,4,Lublin,Point,103,22.5535231,51.2466404,14,Śródmieście
+node,4523228989,Jedyna Taka,pharmacy,yes,pharmacy,Mo-Fr 07:30-20:00; Sa 08:00-15:00; Su off,,,,,,Point,104,22.550362,51.2394822,16,Rury
+node,4773432462,Prima,pharmacy,yes,pharmacy,,,,,,,Point,105,22.5265365,51.2285113,26,Czuby Płn.
+node,4784229014,Vital Centrum,pharmacy,yes,pharmacy,,,,,,,Point,106,22.5969842,51.2431422,15,Tatary
+node,4843761785,Dr Zdrowie,pharmacy,yes,pharmacy,,+48814415350,https://www.drzdrowie.pl/,,,,Point,107,22.5712482,51.267258,8,Czechów Pd.
+node,4908707568,Apteka,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-15:00,,,,,,Point,108,22.5358366,51.2491074,1,Wieniawa
+node,5145726163,Apteka Niezapominajka,pharmacy,yes,,Mo-Fr 08:00-20:00; Sa 08:00-16:00,,http://www.apteka-niezapominajka.pl/apteka/Lublin-Sawy,,,,Point,109,22.5239058,51.237953,16,Rury
+node,5522660461,Unknown pharmacy,pharmacy,yes,pharmacy,Mo-Fr 08:00-19:00; Sa 08:00-15:00,,,,,,Point,110,22.5474228,51.2632477,8,Czechów Pd.
+node,5588145161,Eskulap II,pharmacy,yes,pharmacy,Mo-Fr 07:00-21:00; Sa 08:00-20:00; Su 08:00-17:00,,,,,,Point,111,22.5407993,51.2680674,22,Czechów Płn.
+node,5650450466,Apteka św Łukasza,pharmacy,yes,pharmacy,Mo-Fr 07:00-21:00; Sa 08:00-15:00,,,,,,Point,112,22.5247717,51.2422088,16,Rury
+node,5724281417,Dbam o Zdrowie,pharmacy,yes,pharmacy,Mo-Su 08:00-20:00,,,Bramowa,2-8,Lublin,Point,113,22.5670581,51.2478824,6,Stare Miasto
+node,5814346257,Nasza Apteka,pharmacy,yes,pharmacy,,,,,,,Point,114,22.6339077,51.2207773,13,Felin
+node,6030433590,Gemini,pharmacy,yes,pharmacy,Mo-Fr 07:00-20:00; Sa 08:00-15:00,,,Unicka,4,Lublin,Point,115,22.5729638,51.2588858,25,Ponikwoda
+node,6051281042,Apteka,pharmacy,yes,pharmacy,,,,,,,Point,116,22.5638576,51.2252559,9,Dziesiąta
+node,6385800304,Ziko Apteka,pharmacy,yes,pharmacy,"Mo-Fr 07:00-20:00, Sa 08:00-16:00",+48 12 687 57 47,https://www.ziko.pl/lublin-apteki-drogerie-ziko/nadstawna-2/,,,,Point,117,22.5706042,51.252433,14,Śródmieście
+node,7195072328,Akademicka,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-14:00,,,,,,Point,118,22.542591,51.2466358,1,Wieniawa
+node,8851461374,Całotygodniowa Apteka Familijna,pharmacy,yes,pharmacy,"Mo-Fr 08:00-20:00, Sat 08:00-15:00",,,,,,Point,119,22.5289962,51.2281368,26,Czuby Płn.
+node,9507036892,Apteka Leki,pharmacy,yes,pharmacy,Mo-Fr 07:00-21:00; Sa 08:00-15:00; Su off,,,,,,Point,120,22.532695,51.2543503,1,Wieniawa
+node,9563809650,Apteka Andria,pharmacy,yes,,,,,,,,Point,121,22.526922,51.1945106,27,Zemborzyce
+node,9563809654,Apteka Na Kunickiego,pharmacy,yes,,,,,,,,Point,122,22.5732363,51.2257411,9,Dziesiąta
+node,9563809657,Niezapominajka,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-16:00,,,Żelazowej Woli,1a,Lublin,Point,123,22.5499845,51.2677392,22,Czechów Płn.
+node,9563809662,Apteka W Zone,pharmacy,yes,,Mo-Sa 09:00-21:00; Su 09:00-18:00,,,,,,Point,124,22.4948706,51.2368776,4,Węglin Pd.
+node,9563809674,Apteka Lubelska,pharmacy,yes,,,,,,,,Point,125,22.5104433,51.2220369,7,Czuby Pd.
+node,9563809678,Unknown pharmacy,pharmacy,yes,pharmacy,,,,,,,Point,126,22.5607405,51.266011,8,Czechów Pd.
+node,9563809693,"Barbara Borsukiewicz, Małgorzata Borsukiewicz, Jerzy Borsukiewicz Spółka Jawna",pharmacy,yes,pharmacy,,,,Topolowa,7,Lublin,Point,127,22.585454,51.231655,17,Kośminek
+node,9563809708,Unknown pharmacy,pharmacy,yes,pharmacy,,,,,,,Point,128,22.5220257,51.2284239,26,Czuby Płn.
+node,9563809712,Unknown pharmacy,pharmacy,yes,pharmacy,,,,,,,Point,129,22.5450353,51.2754183,22,Czechów Płn.
+node,9563809713,Apteka Vita,pharmacy,yes,pharmacy,,,,,,,Point,130,22.554942,51.2732559,22,Czechów Płn.
+node,9563809714,Apteka Panaceum,pharmacy,yes,pharmacy,Mo-Fr 08:00-20:00; Sa 08:00-14:00,,,,,,Point,131,22.5185581,51.2556899,2,Sławinek
+node,9563819629,Dbam o Zdrowie,pharmacy,yes,pharmacy,,,,,,,Point,132,22.5188213,51.2422561,16,Rury
+node,9566101980,Neuro Apteka,pharmacy,yes,,,,,,,,Point,133,22.5871371,51.2054476,9,Dziesiąta
+node,10592086305,Unknown pharmacy,pharmacy,yes,pharmacy,,,,,,,Point,134,22.5551223,51.2672477,8,Czechów Pd.
+way,480021930,Super-Pharm,pharmacy,yes,pharmacy,Mo-Sa 09:00-21:00; Su 09:00-20:00,,,Aleja Unii Lubelskiej,2,Lublin,Polygon,135,22.576758466521365,51.2491805,3,Kalinowszczyzna
+way,1032385139,Dr Zdrowie,pharmacy,yes,pharmacy,"Mo-Sa 09:00-21:00; Jan 25,Mar 29,Apr 26,Jun 28,Aug 30,Dec 06,Dec 13,Dec 20 Su 09:00-20:00",+48 81 452 11 30,,,,,Polygon,136,22.57093922256623,51.28364165,22,Czechów Płn.

@@ -1,0 +1,29 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Środowisko wirtualne
+.venv/
+venv/
+env/
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+
+# Pliki tymczasowe
+*.tmp
+*.log
+
+# Pliki związane z budowaniem pakietów
+build/
+dist/
+*.egg-info/git init
