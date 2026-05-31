@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "optimal_pharmacy_locations_2180",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::2180" } },
+"features": [
+{ "type": "Feature", "properties": { "candidate_id": 1, "area_km2": 80.968, "nearest_pharmacy_m": 911.6 }, "geometry": { "type": "Point", "coordinates": [ 749384.514160000369884, 377581.420140656584408 ] } },
+{ "type": "Feature", "properties": { "candidate_id": 2, "area_km2": 19.259, "nearest_pharmacy_m": 1143.4 }, "geometry": { "type": "Point", "coordinates": [ 744304.881025307578966, 382643.364159327873494 ] } },
+{ "type": "Feature", "properties": { "candidate_id": 3, "area_km2": 0.436, "nearest_pharmacy_m": 586.2 }, "geometry": { "type": "Point", "coordinates": [ 747942.010576059576124, 382545.936219814582728 ] } },
+{ "type": "Feature", "properties": { "candidate_id": 4, "area_km2": 0.03, "nearest_pharmacy_m": 539.2 }, "geometry": { "type": "Point", "coordinates": [ 746199.156735997879878, 379977.242711370810866 ] } },
+{ "type": "Feature", "properties": { "candidate_id": 5, "area_km2": 0.01, "nearest_pharmacy_m": 530.8 }, "geometry": { "type": "Point", "coordinates": [ 750655.374382187379524, 382346.340857705567032 ] } },
+{ "type": "Feature", "properties": { "candidate_id": 6, "area_km2": 0.008, "nearest_pharmacy_m": 526.9 }, "geometry": { "type": "Point", "coordinates": [ 747125.876877706265077, 380330.463255859154742 ] } },
+{ "type": "Feature", "properties": { "candidate_id": 7, "area_km2": 0.002, "nearest_pharmacy_m": 510.4 }, "geometry": { "type": "Point", "coordinates": [ 745811.860913296462968, 381560.024624042969663 ] } },
+{ "type": "Feature", "properties": { "candidate_id": 8, "area_km2": 0.001, "nearest_pharmacy_m": 508.0 }, "geometry": { "type": "Point", "coordinates": [ 745477.788225957541727, 380114.508304149028845 ] } }
+]
+}
