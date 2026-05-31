@@ -37,6 +37,10 @@ INPUT_RECOMMENDED_LOCATIONS = (
     PROCESSED_DATA_DIR /
     "recommended_pharmacy_locations.geojson"
 )
+INPUT_PNI = (
+    PROCESSED_DATA_DIR /
+    "pharmacy_need_index_2180.geojson"
+)
 
 # ---------------------------------------------------------
 # Output file
@@ -467,6 +471,49 @@ def add_recommended_locations(
 
     layer.add_to(m)
 
+def add_pni_layer(
+    m: folium.Map,
+    pni_4326: gpd.GeoDataFrame
+) -> None:
+
+    print("Adding PNI layer...")
+
+    colormap = cm.linear.OrRd_09.scale(
+        pni_4326["PNI"].min(),
+        pni_4326["PNI"].max()
+    )
+
+    layer = folium.FeatureGroup(
+        name="Pharmacy Need Index",
+        show=False
+    )
+
+    folium.GeoJson(
+        pni_4326.to_json(),
+        style_function=lambda feature: {
+            "fillColor": colormap(
+                feature["properties"]["PNI"]
+            ),
+            "color": "black",
+            "weight": 1,
+            "fillOpacity": 0.7,
+        },
+        tooltip=folium.GeoJsonTooltip(
+            fields=[
+                "district_name",
+                "PNI",
+                "PNI_rank"
+            ],
+            aliases=[
+                "Dzielnica:",
+                "PNI:",
+                "Ranking:"
+            ]
+        )
+    ).add_to(layer)
+
+    layer.add_to(m)
+
 def add_information_panel(
     m: folium.Map,
     stats: dict
@@ -531,6 +578,11 @@ def create_interactive_map() -> None:
         INPUT_RECOMMENDED_LOCATIONS,
         "recommended locations"
     )
+    pni_2180 = load_layer(
+        INPUT_PNI,
+        "pharmacy need index"
+    )
+
     # Calculate stats before conversion to EPSG:4326
     stats = calculate_basic_stats(
         city_boundary_2180=city_boundary_2180,
@@ -552,6 +604,9 @@ def create_interactive_map() -> None:
     uncovered_area_1000_4326 = to_web_crs(uncovered_area_1000_2180)
     recommended_4326 = to_web_crs(
         recommended_2180
+    )
+    pni_4326 = to_web_crs(
+        pni_2180
     )
     # Create base map
     map_center = get_map_center(city_boundary_2180)
@@ -615,6 +670,11 @@ def create_interactive_map() -> None:
     )
 
     add_pharmacy_markers(m, pharmacies_4326)
+
+    add_pni_layer(
+        m,
+        pni_4326
+    )
 
     add_recommended_locations(
         m,
